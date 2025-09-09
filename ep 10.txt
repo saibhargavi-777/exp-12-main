@@ -1,0 +1,5 @@
+ep 10
+design a devops lifecycle that could be applied to a food delivery app like Zomato,swiggy or uber
+
+ep 11
+design and build 
